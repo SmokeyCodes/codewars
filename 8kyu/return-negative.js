@@ -20,4 +20,3 @@ function makeNegative(num) {
     return num = num * -1;
   }
 }
-    
