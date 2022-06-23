@@ -19,5 +19,5 @@ function makeNegative(num) {
   } else {
     return num = num * -1;
   }
-    }
+}
     
